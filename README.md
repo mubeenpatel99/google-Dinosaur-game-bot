@@ -36,7 +36,7 @@ git clone https://github.com/mubeenpatel99/google-Dinosaur-game-bot.git
 ```
 Left side will be the browser and the right side will be the IDE.
 ```
-<p align="center"><img src="images/sanpshot.jpg" /></p>
+<p align="center"><img src="images/sanpshot.JPG" /></p>
 
 5. Run the server
 ```
