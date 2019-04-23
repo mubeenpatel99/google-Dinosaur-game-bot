@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/Author-MubeenPatel-green.svg)](https://twitter.com/Patelmubeen99)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-green.svg)](https://www.python.org/)
 
-**:red_heart: Open Source**
+**:blue_heart: Open Source**
 
 <h1 align="center">Google's Dinosaur Game Bot<sub style="color:red">BETA</sub></h1>
 <p align="center"><img src="images/trex-game.png" /></p>
@@ -11,7 +11,7 @@ This is an automatic player bot for Google's dinosaur game and this technique ca
 
 ## Why use Google's Dinosaur Game Bot?
 
-Because We are too lazy to press sapcebar each time a tree appears on the screen :laugh:
+Because We are too lazy to press sapcebar each time a tree appears on the screen :smile:
 
 ## Installation
 
