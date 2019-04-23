@@ -23,20 +23,16 @@ git clone https://github.com/mubeenpatel99/google-Dinosaur-game-bot.git
 
 2. Install Python and any IDE I use pycharm
 
-```
 * [Pycharms free open source community section](https://www.jetbrains.com/pycharm/download/#section=windows)
-```
 
 3. Open the link for the game
-```
+
 * [Dinosaur Game](http://www.trex-game.skipser.com/)
-```
 
 4. Divide the screen in two parts
 ```
 Left side will be the browser and the right side will be the IDE.
 ```
-<p align="center"><img src="images/sanpshot.JPG" /></p>
 
 5. Run the server
 ```
