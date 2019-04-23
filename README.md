@@ -3,7 +3,7 @@
 
 **:blue_heart: Open Source**
 
-<h1 align="center">Google's Dinosaur Game Bot<sub style="color:red">BETA</sub></h1>
+<h1 align="center">Google's Dinosaur Game Bot <sub style="color:red">BETA</sub></h1>
 <p align="center"><img src="images/trex-chrome-game.png" /></p>
 
 > **Google's Dinosaur Game Bot** because We programmer like to do the things in the way humans think it is miracle you can also search for Wizard. :smile:
