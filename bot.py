@@ -1,3 +1,9 @@
+###################################
+# Author : Mubeen Patel (HexClan) #
+# Open Source                     #
+# build on 24/04/2019             #
+###################################
+
 from PIL import ImageGrab, ImageOps
 import pyautogui
 import time
